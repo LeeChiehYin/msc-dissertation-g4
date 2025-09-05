@@ -1,5 +1,5 @@
 # Comparative Bioinformatic Analysis of G-Quadruplex Sequencesacross Bacterial Species and Their Therapeutic Potential
-MSc Dissertation Project (University of Bristol): Comparative Bioinformatic Analysis of G-Quadruplex Sequences across Bacterial Species and Their Therapeutic Potential
+I'm Chieh-Yin Lee, a MSc Data Science student in University of Bristol.
 
 ## Data Sources
 
